@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 공부하는 개발자입니다
+### 공부하는 개발자입니다.
 <a href="https://wonseokan.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리 방문-FF5500?style=square&logo=Tistory&logoColor=FFFFFF"/></a><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnwonseok&show_icons=true&theme=merko)<br>
