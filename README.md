@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ### 공부하는 개발자입니다<br>
 <a href="https://wonseokan.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5500?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnwonseok&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnwonseok&show_icons=true&theme=merko)<br>
