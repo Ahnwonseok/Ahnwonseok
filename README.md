@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://wonseokan.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5500?style=for-the-badge&logo=Tistory&logoColor=FFFFFF"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwonseok&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnwonseok&show_icons=true&theme=radical)
